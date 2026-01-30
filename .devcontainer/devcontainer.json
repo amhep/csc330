@@ -1,0 +1,6 @@
+{
+  "name": "CSC 330 Linux",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "features": {},
+  "postCreateCommand": "python --version"
+}
